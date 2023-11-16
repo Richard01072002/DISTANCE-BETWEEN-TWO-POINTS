@@ -1,5 +1,5 @@
-# DISTANCE-BETWEEN-TWO-POINTS
-
+# EXP-3 DISTANCE-BETWEEN-TWO-POINTS
+## Date: 23.08.2023
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
